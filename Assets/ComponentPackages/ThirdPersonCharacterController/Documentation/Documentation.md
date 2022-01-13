@@ -8,19 +8,19 @@ This package is made from the following scripts:
 - [`ThirdPersonCameraCtrl`]
 - [`CharacterAnimationCtrl`]
 
-### Third Person Physics Character Controller
+### ThirdPersonPhysicsCharacterController
 This script manages the player character's movement, falling and stepping behaviour. It is the main script controlling majority of the player character's behaviour.
 
-### Third Person Input
+### ThirdPersonInput
 This script handles the user input used by the other scripts to translate into their behaviours.
 
-### Third Person Camera Ctrl
+### ThirdPersonCameraCtrl
 This script controls the third person camera behaviour.
 
-### Character Animation Ctrl
+### CharacterAnimationCtrl
 This script manages the animation of the player character.
 
-[`ThirdPersonPhysicsCharacterController`] #Third Person Physics Character Controller
-[`ThirdPersonInput`] #Third Person Input
-[`ThirdPersonCameraCtrl`] #Third Person Camera Ctrl
-[`CharacterAnimationCtrl`] #Character Animation Ctrl
+[`ThirdPersonPhysicsCharacterController`]: #ThirdPersonPhysicsCharacterController
+[`ThirdPersonInput`]: #ThirdPersonInput
+[`ThirdPersonCameraCtrl`]: #ThirdPersonCameraCtrl
+[`CharacterAnimationCtrl`]: #CharacterAnimationCtrl
